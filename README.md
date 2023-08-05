@@ -52,7 +52,7 @@ Using it, you can more easily search for certain HTML elements in web pages usin
 - The program has a function to delete the list of TV channels.
 - The program has a function to search the list of TV channels based on a part of the name.
 
-**The list of channels that the user selects:**.
+**The list of channels that the user selects:**
 - Poland
 - Foreign
 - All
