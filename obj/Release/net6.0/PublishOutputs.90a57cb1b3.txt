@@ -1,0 +1,8 @@
+C:\Users\Marcin\source\repos\WebScrapper\WebScrapper\bin\Release\net6.0\publish\WebScrapper.exe
+C:\Users\Marcin\source\repos\WebScrapper\WebScrapper\bin\Release\net6.0\publish\WebScrapper.dll
+C:\Users\Marcin\source\repos\WebScrapper\WebScrapper\bin\Release\net6.0\publish\WebScrapper.deps.json
+C:\Users\Marcin\source\repos\WebScrapper\WebScrapper\bin\Release\net6.0\publish\WebScrapper.runtimeconfig.json
+C:\Users\Marcin\source\repos\WebScrapper\WebScrapper\bin\Release\net6.0\publish\WebScrapper.pdb
+C:\Users\Marcin\source\repos\WebScrapper\WebScrapper\bin\Release\net6.0\publish\HtmlAgilityPack.dll
+C:\Users\Marcin\source\repos\WebScrapper\WebScrapper\bin\Release\net6.0\publish\HtmlAgilityPack.CssSelectors.dll
+C:\Users\Marcin\source\repos\WebScrapper\WebScrapper\bin\Release\net6.0\publish\Newtonsoft.Json.dll
